@@ -1,3 +1,18 @@
-# Create T3 App
+# Today **made for schedule your week**
+App made for schedule your week
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+## T3 Stack
+- Next.js 
+- Next Auth
+- tRPC
+- Prisma
+- Typescript
+- Tailwind
+
+## TODO
+- [] Simple Landing page
+- [] Login page
+- [] UI design
+
+
+**MIT license**

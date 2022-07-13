@@ -14,8 +14,8 @@ App made for schedule your week
 - [x] Config directories for components
 - [x] Config paths
 - [x] Config first page with layout
-- [] Login page
-- [] UI design
+- [ ] Login page
+- [ ] UI design
 
 
 **MIT license**

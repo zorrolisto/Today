@@ -10,7 +10,10 @@ App made for schedule your week
 - Tailwind
 
 ## TODO
-- [] Simple Landing page
+- [x] Simple Landing page
+- [x] Config directories for components
+- [x] Config paths
+- [x] Config first page with layout
 - [] Login page
 - [] UI design
 

@@ -1,4 +1,4 @@
-# Today **made for schedule your week**
+# TODAY
 App made for schedule your week
 
 ## T3 Stack
